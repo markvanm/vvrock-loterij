@@ -1187,7 +1187,7 @@
                                 })(),
                                 k = new l({
                                     reelContainerSelector: "#reel",
-                                    maxReelItems: 100,
+                                    maxReelItems: 120,
                                     onSpinStart: function () {
                                         x(), (t.disabled = !0), (n.disabled = !0), g.spin(3.9);
                                     },
